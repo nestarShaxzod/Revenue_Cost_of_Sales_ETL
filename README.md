@@ -24,13 +24,13 @@
 ![Исходная выгрузка по себестоимости](images/01_source_cost_of_sale.png)
 
 ### 2. Очистка и преобразование данных по себестоимости
-![Очистка себестоимости](images/02_ cleaned_cost_of_sale.png)
+![Очистка себестоимости](images/02_cleaned_cost_of_sale.png)
 
 ### 3. Исходная выгрузка по выручке
-![Исходная выгрузка по выручке](images/03 _source_revenue.png)
+![Исходная выгрузка по выручке](images/03_source_revenue.png)
 
 ### 4. Очистка и преобразование данных по выручке
-![Очистка выручки](images/04_ cleaned_revenue.png.png)
+![Очистка выручки](images/04_cleaned_revenue.png)
 
 ### 5. Итоговая аналитическая таблица
-![Итоговая аналитическая таблица](images/05 _merged_revenue_cost_of_sale.png)
+![Итоговая аналитическая таблица](images/05_merged_revenue_cost_of_sale.png)
