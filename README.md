@@ -18,7 +18,7 @@
 
 Полная реализация ETL-процесса доступна в ноутбуке:
 
-[[📓 Открыть Jupyter Notebook](./Revenue_Cost_of_Sales_ETL_ipynb.ipynb)](https://github.com/nestarShaxzod/Revenue_Cost_of_Sales_ETL/blob/main/Revenue_Cost_of_Sales_ETL_ipynb.ipynb)
+[[📓 Открыть Jupyter Notebook](./Revenue_Cost_of_Sales_ETL_ipynb.ipynb)]
 
 ## Практическое применение
 
