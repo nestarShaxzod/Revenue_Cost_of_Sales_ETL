@@ -30,7 +30,7 @@
 ![Исходная выгрузка по выручке](images/03_source_revenue.png)
 
 ### 4. Очистка и преобразование данных по выручке
-![Очистка выручки](images/04_ cleaned_revenue.png)
+![Очистка выручки](images/04_cleaned_revenue.png)
 
 ### 5. Итоговая аналитическая таблица
-![Итоговая аналитическая таблица](images/05_ merged_revenue_cost_of_sale.png)
+![Итоговая аналитическая таблица](images/05_merged_revenue_cost_of_sale.png)
